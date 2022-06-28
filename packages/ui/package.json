@@ -1,8 +1,12 @@
 {
-  "name": "@rturner4370/ui",
+  "name": "@rtturner/ui",
   "version": "1.0.0",
   "description": "My personal design system",
   "main": "index.js",
+  "publishConfig": {
+    "@rtturner:registry": "https://npm.pkg.github.com/rtturner"
+  },
+  "repository": "https://github.com/rtturner/turner-playground",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",

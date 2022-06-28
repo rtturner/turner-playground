@@ -1,7 +1,10 @@
 {
-  "name": "@rturner4370/app",
-  "private": true,
+  "name": "@rtturner/app",
   "version": "1.0.0",
+  "publishConfig": {
+    "@rtturner:registry": "https://npm.pkg.github.com/rtturner"
+  },
+  "repository": "https://github.com/rtturner/turner-playground",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

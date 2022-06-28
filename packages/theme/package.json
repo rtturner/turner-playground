@@ -1,8 +1,12 @@
 {
-  "name": "@rturner4370/theme",
+  "name": "@rtturner/theme",
   "version": "1.0.0",
   "description": "Theme for design system",
   "main": "index.ts",
+  "publishConfig": {
+    "@rtturner:registry": "https://npm.pkg.github.com/rtturner"
+  },
+  "repository": "https://github.com/rtturner/turner-playground",
   "scripts": {
     "build": "rollup --config rollup.config.ts --configPlugin typescript",
     "test": "echo \"Error: no test specified\" && exit 1"

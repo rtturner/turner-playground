@@ -1,10 +1,14 @@
 {
-  "name": "@rturner4370/turner-playground",
-  "version": "independent",
+  "name": "@rtturner/turner-playground",
+  "version": "1.0.0",
   "description": "My personal DS playground",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtturner/turner-playground.git"
   },
   "author": "Ryan",
   "license": "ISC",
