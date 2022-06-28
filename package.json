@@ -1,0 +1,17 @@
+{
+  "name": "@rturner4370/turner-playground",
+  "version": "independent",
+  "description": "My personal DS playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan",
+  "license": "ISC",
+  "volta": {
+    "node": "16.5.0"
+  },
+  "devDependencies": {
+    "lerna": "^5.1.6"
+  }
+}
