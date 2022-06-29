@@ -7,7 +7,7 @@ export const theme: Theme = {
     monospace: 'Menlo, monospace',
   },
   colors: {
-    text: '#000',
+    text: '#222',
     background: '#fff',
     primary: '#33e',
   },
