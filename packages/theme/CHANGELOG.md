@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/rtturner/turner-playground/compare/@rtturner/theme@1.1.0...@rtturner/theme@1.2.0) (2022-06-29)
+
+
+### Features
+
+* new amazing font colors ([2ee67dd](https://github.com/rtturner/turner-playground/commit/2ee67dde1b4e1cfffd4a3d3596d32f70575c995a))
+
+
+
+
+
 # 1.1.0 (2022-06-29)
 
 
